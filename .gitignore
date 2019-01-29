@@ -10,6 +10,7 @@
 .tox
 .venv.touch
 /venv*
+.mypy_cache/
 coverage-html
 dist
 # SublimeText project/workspace files

@@ -27,6 +27,7 @@ setup(
         'flake8',
         'ruamel.yaml>=0.15',
         'six',
+        'isort'
     ],
     entry_points={
         'console_scripts': [

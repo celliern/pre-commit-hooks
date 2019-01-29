@@ -137,6 +137,13 @@
     language: python
     types: [python]
     require_serial: true
+-   id: isort
+    name: Isort
+    description: This hook runs isort.
+    entry: isort
+    language: python
+    types: [python]
+    require_serial: true
 -   id: forbid-new-submodules
     name: Forbid new submodules
     language: python
